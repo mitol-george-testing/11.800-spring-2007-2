@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a63b63f3-6fff-7d48-bc5d-5dfb7d4ad998",
+      "87a30f98-e05f-aba2-68fe-4091ee328b7a",
+      "e1522b9e-9f85-540e-cfa3-3f1fdf5e7a2d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Doctoral Research Seminar: Knowledge in the Public Arena",
+  "course_description": "This is a course about how research knowledge and other types of knowledge come to be actionable and influential in the world \u2014 or not. The course explores ways to make research knowledge more accessible, credible, and useful in the realm of public policy and practice, a project in which the course faculty collectively bring decades of professional experience, in both academic and non-academic roles.\n\nThe course addresses the politics of the policymaking process, the power of framing and agenda-setting, fads and paradigms in the design professions and society in general, how knowledge diffuses along knowledge and influence networks, and how varied types of knowledge (rational, craft, other) and deliberation shape decision-making and action. The course engages a number of guests to present case studies of research in use (and abuse) in varied fields, highlighting rich areas for potential research contributions, along with major conflicts in public values, political interests, ethical obligations, and more. The resulting dilemmas confront scholars, policymakers, practitioners, and others as they look to research \u2014 sometimes \u2014 for useful guidance, influence, or both.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.800",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
